@@ -34,4 +34,3 @@ words = words.map( function(word){
 
 let result = words.join();
 //❓ LAB QUESTION 11:
-console.log(result);

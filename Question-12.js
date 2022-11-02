@@ -6,4 +6,4 @@ function isEven(number){
 }
 
 //❓ LAB QUESTION 12:
-console.log(numbers.filter(isEven));
+//YOUR CODE HERE
